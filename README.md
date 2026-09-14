@@ -1,6 +1,6 @@
-# Oie! Welcome 
+# Oie! Welcome guys 
 
-Eu sou a Maria. Sou de Recife/PE e utilizo este espaço como meu laboratório de tecnologia. Aqui você encontra meus estudos, que vão desde o desenvolvimento Web até testes e análises com **Google Colab**.
+Eu sou a Maria. Sou de Recife/PE e utilizo este espaço para colcoar algumas tentativas de laboratório. Aqui vai desde desenvolvimento Web até umas análises com **Google Colab**.
 
 ### ⚙️  Minhas aventuras e Habilidades
 <!-- Aqui usamos as badges visuais -->
@@ -10,12 +10,12 @@ Eu sou a Maria. Sou de Recife/PE e utilizo este espaço como meu laboratório de
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Tenho me aventurado nessas áreas ainda por isso pucos projetos, mas vamos em frente!
+Tenho me aventurado nessas áreas ainda por isso poucos projetos, mas vamos em frente!
 
 * 🔬 **[hinerds](https://github.com/ferdadee/hinerds):** Meu laboratório prático com notebooks (Testes e manipulação de dados).
 * 💻 **[Curso-div-a](https://github.com/ferdadee/Curso-div-a):** Projetos e exercícios focados em desenvolvimento Web.
 
-### 📂 Meus Focos Atuais
+### Meus focos no momento
 * Análise de dados em laboratório e estruturação de qualidade (ex: normativas ISO 15189).
 * Construção de laboratórios práticos no Google Colab.
 * Planejamento ágil e melhoria contínua de processos.
