@@ -8,8 +8,6 @@ Eu sou a Maria. Sou de Recife/PE e utilizo este espaço para colcoar algumas ten
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0081A7?style=for-the-badge&logo=scrum&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Cibersegurança](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Cibersegurança](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_n5PfuCrF12jl7Vtkpbn8yrGuuovm4KUTYVw-BCDGYduFK7Z8Z2SajTT&s=100.
 
 Tenho me aventurado nessas áreas ainda por isso poucos projetos, mas vamos em frente!
 
@@ -18,7 +16,7 @@ Tenho me aventurado nessas áreas ainda por isso poucos projetos, mas vamos em f
 
 ### Meus focos no momento
 * Análise de dados em laboratório e estruturação de qualidade (ex: normativas ISO 15189).
-* Construção de laboratórios práticos no Google Colab.
+* Construção de laboratórios práticos no Cisco PT.
 * Planejamento ágil e melhoria contínua de processos.
 
 ### 📬 Como me encontrar
