@@ -8,7 +8,7 @@ Eu sou a Maria. Sou de Recife/PE e utilizo este espaço para colcoar algumas ten
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0081A7?style=for-the-badge&logo=scrum&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Cibersegurança](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 Tenho me aventurado nessas áreas ainda por isso poucos projetos, mas vamos em frente!
 
